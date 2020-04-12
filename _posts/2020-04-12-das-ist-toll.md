@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! II"
+title:  "Welcome to Jekyll my friend!"
 author: dexter
 categories: Thriller Comedy Horror
 ---
