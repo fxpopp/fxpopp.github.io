@@ -63,7 +63,7 @@ post_class: post-template
             <!-- If we want to display author's name and bio -->
             {% assign author = site.data.authors[page.author] %}
             {% if author %}
-                {% if author.avatar_url %}
+                {% if author.avatar %}
                     <figure class="author-image">
                         <a class="img" href="{{ site.baseurl }}" style="background-image: url({{author.avatar_url}})">
                         <span class="hidden">{{author.name}}'s Picture</span></a>
