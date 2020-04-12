@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 
 url: https://fxpopp.github.io
-baseurl: /
+baseurl: 
 #google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
