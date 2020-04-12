@@ -1,7 +1,7 @@
 fxpopp:
   name:          Felix Popp
   site:          http://www.codepedia.org
-  avatar:        https://www.bento.de/images/00000000-0003-0004-0000-000000821052_w900_fpx50_fpy50.jpg
+  avatar:        bento.de/images/00000000-0003-0004-0000-000000821052_w900_fpx50_fpy50.jpg
   bio:           "Life force expressing itself as a coding capable human being"
   email:         felix.c.popp@googlemail.com
   # Twitter nick for use in Twitter cards and follow button.
@@ -21,7 +21,7 @@ fxpopp:
 dexter:
   name:          Dexter from Dexter's Laboratory
   site:          http://www.codepedia.org
-  avatar:        https://s-cdn.serienjunkies.de/TheSimpsons/bart-simpson.jpg
+  avatar:        s-cdn.serienjunkies.de/TheSimpsons/bart-simpson.jpg
   bio:           "A boy-genius and inventor with a secret laboratory, who constantly battles his sister Dee Dee in an attempt to keep her out of the lab."
   email:         adrianmatei@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
