@@ -17,7 +17,7 @@ fxpopp:
   #    url: "https://www.youtube.com/channel/UCZT1MatBdHWnVLl0OkcED3Q"
   #  - title: "facebook"
   #    url: "https://www.facebook.com/adrian.matei.90"
-...........
+
 dexter:
   name:          Dexter from Dexter's Laboratory
   site:          http://www.codepedia.org
@@ -36,5 +36,4 @@ dexter:
     - title: "youtube"
       url: "https://www.youtube.com/channel/UCZT1MatBdHWnVLl0OkcED3Q"
     - title: "facebook"
-      url: "https://www.facebook.com/adrian.matei.90"
-...........      
+      url: "https://www.facebook.com/adrian.matei.90"    
