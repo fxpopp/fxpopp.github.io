@@ -101,6 +101,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 /* ==========================================================================
    0. fxpopp fonts import: https://www.onlinewebfonts.com/download/4a373e70cd01dec089c1dd1185ceba51
+   and: https://www.onlinewebfonts.com/download/7519039e13db264c802c0060d27d23f6
    ========================================================================== */
 
 /* Import the font file */
@@ -108,6 +109,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 @font-face {font-family: "Maison Neue"; src: url("//db.onlinewebfonts.com/t/4a373e70cd01dec089c1dd1185ceba51.eot"); src: url("//db.onlinewebfonts.com/t/4a373e70cd01dec089c1dd1185ceba51.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/4a373e70cd01dec089c1dd1185ceba51.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/4a373e70cd01dec089c1dd1185ceba51.woff") format("woff"), url("//db.onlinewebfonts.com/t/4a373e70cd01dec089c1dd1185ceba51.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/4a373e70cd01dec089c1dd1185ceba51.svg#Maison Neue") format("svg"); }
 
+@import url(//db.onlinewebfonts.com/c/7519039e13db264c802c0060d27d23f6?family=CallunaW01-Regular);
+
+@font-face {font-family: "CallunaW01-Regular"; src: url("//db.onlinewebfonts.com/t/7519039e13db264c802c0060d27d23f6.eot"); src: url("//db.onlinewebfonts.com/t/7519039e13db264c802c0060d27d23f6.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/7519039e13db264c802c0060d27d23f6.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/7519039e13db264c802c0060d27d23f6.woff") format("woff"), url("//db.onlinewebfonts.com/t/7519039e13db264c802c0060d27d23f6.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/7519039e13db264c802c0060d27d23f6.svg#CallunaW01-Regular") format("svg"); }
 
 /* ==========================================================================
    1. Icons - Sets up the icon font and respective classes
@@ -186,7 +190,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Merriweather", serif;
+    font-family: "CallunaW01-Regular", serif;
     letter-spacing: 0.01rem;
     font-size: 2rem;
     line-height: 1.75em;
@@ -684,7 +688,7 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-family: "CallunaW01-Regular", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -1175,7 +1179,7 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: "Merriweather", serif;
+    font-family: "CallunaW01-Regular", serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
