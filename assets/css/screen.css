@@ -183,7 +183,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 html {
     height: 100%;
     max-height: 100%;
-    font-size: 100%;
+    font-size: 62.5%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -192,7 +192,7 @@ body {
     max-height: 100%;
     font-family: "CallunaW01-Regular", serif;
     letter-spacing: 0.01rem;
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 1.75em;
     color: #3A4145;
     -webkit-font-feature-settings: 'kern' 1;
