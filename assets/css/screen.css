@@ -42,7 +42,7 @@ body { margin: 0; }
 a { background: transparent; }
 a:focus { outline: thin dotted; }
 a:active, a:hover { outline: 0; }
-h1 { font-size: 2em; margin: 0.67em 0; }
+h1 { font-size: 4em; margin: 0.67em 0; }
 abbr[title] { border-bottom: 1px dotted; }
 b, strong { font-weight: 700; }
 dfn { font-style: italic; }
@@ -226,12 +226,12 @@ h1 {
 }
 
 h2 {
-    font-size: 4.6rem;
+    font-size: 5.5rem;
     letter-spacing: -1px;
 }
 
 h3 {
-    font-size: 4rem;
+    font-size: 4.8rem;
 }
 
 h4 {
